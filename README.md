@@ -4,6 +4,7 @@
 
 A [Flarum](http://flarum.org) extension. Upload short videos to Imgur. Intended to be used in conjuction with [fof/formatting extension](https://github.com/FriendsOfFlarum/formatting).
 
+# Compatible with Flarum beta 13 and below (beta14 incompatible)
 ### Installation
 
 Install with composer:
